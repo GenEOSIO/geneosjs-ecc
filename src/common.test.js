@@ -22,7 +22,6 @@ describe('Common API', () => {
     // const pub = 'PUB_K1_859gxfnXyUriMgUeThh1fWv3oqcpLFyHa3TfFYC4PK2Ht7beeX'
     const pub = 'GENEOS859gxfnXyUriMgUeThh1fWv3oqcpLFyHa3TfFYC4PK2HqhToVM'
     assert.equal(ecc.privateToPublic(wif), pub)
-	console.log(ecc.privateToPublic(wif))
   })
 
   it('isValidPublic', () => {
