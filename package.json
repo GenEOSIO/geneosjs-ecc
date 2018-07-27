@@ -1,5 +1,5 @@
 {
-  "name": "eosjs-ecc",
+  "name": "geneosjs-ecc",
   "version": "4.0.2",
   "description": "Elliptic curve cryptography functions",
   "keywords": "ECC, Private Key, Public Key, Signature, AES, Encryption, Decryption",
